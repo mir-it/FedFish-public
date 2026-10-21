@@ -1,0 +1,11 @@
+customer's own carrier	P
+daylight	L
+estes express lines	L
+fedex	S
+fedex freight	L
+freight	L
+mcc	L
+roadrunner	L
+saia	L
+ups	S
+will call	P

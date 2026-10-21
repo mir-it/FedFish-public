@@ -1,0 +1,24 @@
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local secrets / config (each machine has its own)
+.env
+
+# Office TLS trust material (copy from your private FedFish / Central install)
+central-ca.pem
+
+# Per-machine runtime state written by the app (must NOT be shared via git)
+synapse_sent_shipments.txt
+synapse_last_send_map.txt
+.fedfish-central/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
